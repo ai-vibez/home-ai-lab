@@ -10,4 +10,4 @@ Private local AI inference stack. Ubuntu 26.04, GTX 980 Ti, llama.cpp + Ollama +
 - n8n (automation, coming soon)
 
 ## Goal
-Telecom AI applications. RAG pipelines. Income independence.
+Telecom AI applications. Local RAG pipelines. No cloud costs.
